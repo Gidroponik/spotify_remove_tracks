@@ -7,4 +7,4 @@ STEP 2. PHP remove.php
 1) Mode 1 ($_GET['get_all']) - Get all you tracks from favourites list
 2) Mode 2 ("/") Remove by 2 types : #1 (all Cyrillic names) OR #2 (by sound name)
 
-How to make application on Spotify search in Google :)
+How to make application in Spotify search in Google :)
